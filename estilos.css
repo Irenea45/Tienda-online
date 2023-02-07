@@ -18,3 +18,13 @@ marquee{
     column-count: 3;
     text-align: center;
 }
+#fotos{
+    border: black 3px solid;
+    margin: 10px;
+    padding: 10px;
+}
+#contenido{
+    border: black 3px solid;
+    margin: 10px;
+    padding: 10px;
+}
