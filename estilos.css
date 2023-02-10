@@ -1,8 +1,10 @@
 body{
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #cabecera{
-
+    height: 35px;
+    font-size: 30px;
+    color: black;
 }
 h2{
     
@@ -22,4 +24,24 @@ marquee{
     border: black 3px solid;
     margin: 10px;
     padding: 10px;
+}
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+a:link {
+    color: black
+}
+
+a:hover {
+    background-color: beige;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: black;
 }
