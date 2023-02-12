@@ -1,32 +1,37 @@
-body{
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#cabecera{
+
+#cabecera {
     height: 35px;
     font-size: 30px;
     color: black;
 }
+
 /*Divisón para la foto del prodocto , la descrípción y compra.*/
-#derecha{
+#derecha {
     border: none;
-    float:left;
-    height:600px;
-    padding:20px;
-    width:500px;
-    margin: 20px;
-}
-#izquierda{
-    border: none;
-    float:left;
+    float: left;
     height: 600px;
-    padding:20px;
-    width:500px;
+    padding: 20px;
+    width: 500px;
     margin: 20px;
 }
-#contenedor{
-    margin:10px auto;
-    width:95%;
+
+#izquierda {
+    border: none;
+    float: left;
+    height: 600px;
+    padding: 20px;
+    width: 500px;
+    margin: 20px;
 }
+
+#contenedor {
+    margin: 10px auto;
+    width: 95%;
+}
+
 a {
     outline: none;
     text-decoration: none;

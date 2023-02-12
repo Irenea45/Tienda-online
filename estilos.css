@@ -1,29 +1,36 @@
-body{
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#cabecera{
+
+#cabecera {
     height: 35px;
     font-size: 30px;
     color: black;
 }
-marquee{
+
+marquee {
     background-image: url("img/descuento20.png");
     color: red;
     font-size: 30px;
-}/*pagina principal imagen descuentos*/
-#columnas1{
+}
+
+/*pagina principal imagen descuentos*/
+#columnas1 {
     column-count: 3;
     text-align: center;
 }
-#columnas2{
+
+#columnas2 {
     column-count: 3;
     text-align: center;
 }
-#fotos{
+
+#fotos {
     border: black 3px solid;
     margin: 10px;
     padding: 10px;
 }
+
 a {
     outline: none;
     text-decoration: none;
@@ -44,7 +51,8 @@ a:visited {
 a:active {
     color: black;
 }
-#pie{
+
+#pie {
     background-color: paleturquoise;
     height: 30px;
     font-size: 25px;
