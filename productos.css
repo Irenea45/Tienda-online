@@ -52,3 +52,9 @@ a:visited {
 a:active {
     color: black;
 }
+#pie {
+    background-color: paleturquoise;
+    height: 30px;
+    font-size: 25px;
+    text-align: center;
+}
